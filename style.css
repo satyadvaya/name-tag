@@ -1,0 +1,39 @@
+#paper {
+    height: 125px;
+    width: 200px;
+    margin: auto;
+    background: gray;
+    padding: 3px;
+}
+
+.main-container {
+    height: 125px;
+    width: 200px;
+    border-radius: 10px;
+    background: red;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+
+.hello {
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+.my-name-is {
+    margin-bottom: 4px;
+    font-size: 12pt;
+}
+
+.name-container {
+    height: 35px;
+    width: 200px;
+    padding-top: 15px;
+    background: white;
+    color: black;
+    font-size: 12pt;
+    font-family: universe;
+    font-weight: bold;
+    font-style: italic;
+}
