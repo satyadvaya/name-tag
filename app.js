@@ -6,7 +6,3 @@ changeButton.addEventListener('click', () => {
     nameDisplay.textContent = nameInput.value;
     nameInput.value = '';
 });
-
-// nameInput.addEventListener('mouseover', () => {
-//     console.log('moused over');
-// });
